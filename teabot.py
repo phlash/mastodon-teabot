@@ -9,6 +9,25 @@ teas = [
     [ 'Assam', 'a popular black tea from north eastern India' ],
     [ 'Bancha', 'a Japanese green tea, rare outside Japan' ],
     [ 'Ceylon', 'a rich black tea from the island of Sri Lanka' ],
+    [ 'Darjeeling', 'a delicate black tea, from northern India' ],
+    [ 'Earl Grey', 'a blend of black tea flavoured with bergamot' ],
+    [ 'Fukamushi', 'a steamed green tea from Japan' ],
+    [ 'Gunpowder' , 'a smoky green tea processed into pellets' ],
+    [ 'Hojicha', 'a roasted version of Japanese Bancha green tea' ],
+    [ 'Irish Breakfast', 'a blend of black teas, quite popular in...:)' ],
+    [ 'Jasmine', 'a green tea flavoured with jasmine flowers' ],
+    [ 'Kukicha', 'a Japanese green tea, made from the twigs' ],
+    [ 'Lapsang Souchong', 'a strong black tea, flavoured with pinewood smoke' ],
+    [ 'Matcha', 'a traditional Japanese ceremonial green tea, ground from the whole leaf' ],
+    [ 'Nilgiri', 'a black tea from a lesser known Indian tea region' ],
+    [ 'Oolong', 'a floral tea produced in China and Taiwan' ],
+    [ 'Puerh', 'a Chinese fermented black tea, very earthy' ],
+    [ 'Keemun', 'a fruity black tea produced in the Chinese town of Qimen' ],
+    [ 'Rooibos', 'a herbal beverage (not actually a tea) from South Africa' ],
+    [ 'Silver Needles', 'a white tea, also known as Bai Hao Yinzhen' ],
+    [ 'Tieguanyin', 'a variety of Oolong tea, floral aroma' ],
+    [ 'Yellow Tea', 'a variant of green tea, processed to reduce the colour' ],
+    [ 'English Breakfast', 'a blend of black teas, the most popular tea in the UK' ],
 ]
 
 # break reminder phrases
@@ -16,6 +35,11 @@ phrases = [
     'Ooh look at the time! Let\'s grab a cuppa eh?',
     'Goodness, I\'m parched, how about a brew?',
     'Anyone fancy a wee break for tea?',
+    'Screen break! Whose turn is it to put the kettle on?',
+    'Tea up! Who takes sugar again?',
+    'Kettle\'s on! Where did you put your mug?',
+    'I\'ll pop the kettle on, when did you last wash this mug?',
+    'Nearly done here, tea?',
 ]
 
 # grab access token (or bail)
