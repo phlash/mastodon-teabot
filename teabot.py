@@ -40,6 +40,14 @@ phrases = [
     'Kettle\'s on! Where did you put your mug?',
     'I\'ll pop the kettle on, when did you last wash this mug?',
     'Nearly done here, tea?',
+    'I could just do with a cuppa, how about you?',
+    'Time for a tea break. Did you bring the biscuits?',
+    'I think I\'ve earned a tea break. Join me?',
+    'How about a nice cup of tea?',
+    'I have a biscuit but no tea. Time to fix that!',
+    'Milk in first, second, or not at all? You choose. I\'m ready for a tea break!',
+    'OK, time for something from the Nutrimatic Drinks Dispenser. Or a nice cup of tea. I vote for the latter.',
+    'Put the kettle on, will you? It\'s time for a tea break!',
 ]
 
 # grab access token (or bail)
